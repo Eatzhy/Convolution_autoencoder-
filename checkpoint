@@ -1,0 +1,2 @@
+model_checkpoint_path: "/home/zhangyang/CAE/my_model.tflearn"
+all_model_checkpoint_paths: "/home/zhangyang/CAE/my_model.tflearn"
